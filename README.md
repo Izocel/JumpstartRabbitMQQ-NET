@@ -37,6 +37,6 @@ Headers exchange
 Conssistent Hashing Exchange (plugin needed)
 ![image](https://user-images.githubusercontent.com/68454661/180667041-f1cb9c22-b639-4780-aed5-6e2526a538d8.png)
 
-Dead letter managing architecture (fanout,alternate)
+Dead letter managing architecture (Alternate exchange, Dead letters)
 ![image](https://user-images.githubusercontent.com/68454661/180666825-240f65e7-387f-41c7-ba9e-bb1aec7e52ef.png)
 ![image](https://user-images.githubusercontent.com/68454661/180666858-5e5393c1-565e-4627-a8d0-eb45730ab1bb.png)
