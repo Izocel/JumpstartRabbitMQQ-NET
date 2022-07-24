@@ -6,7 +6,7 @@ Chocolaty download: (pwshell) => [https://chocolatey.org/install#install-step2](
 
 Web-Manager => [http://localhost:15672](http://localhost:15672)
 
-Add CLI-Tools to your User PATH environement variable => [C:\RabbitMQ Server\rabbitmq_server-3.10.6\sbin](C:\RabbitMQ Server\rabbitmq_server-3.10.6\sbin)
+Add CLI-Tools to your User PATH environement variable => ```C:\Program File\RabbitMQ Server\rabbitmq_server-3.10.6\sbin```
 
 Enable Shoveling plugin (pwshell) => ```rabbitmq-plugins enable rabbitmq_shovel rabbitmq_shovel_management```
 
