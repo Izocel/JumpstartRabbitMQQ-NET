@@ -4,6 +4,8 @@ Chocolaty download: (pwshell) => [https://chocolatey.org/install#install-step2](
 
 ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))```
 
+Web-Manager => [http://localhost:15672](http://localhost:15672)
+
 **Used Architecture**
 Routing with topic Exchange
 ![image](https://user-images.githubusercontent.com/68454661/180667155-528c8a2c-e9c9-49e5-a856-08edcf02ec46.png)
