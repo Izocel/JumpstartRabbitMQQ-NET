@@ -6,6 +6,12 @@ Chocolaty download: (pwshell) => [https://chocolatey.org/install#install-step2](
 
 Web-Manager => [http://localhost:15672](http://localhost:15672)
 
+Add CLI-Tools to your User PATH environement variable => [C:\Program Files\RabbitMQ Server\rabbitmq_server-3.10.6\sbin](C:\Program Files\RabbitMQ Server\rabbitmq_server-3.10.6\sbin)
+
+Enable Shoveling plugin (pwshell) => ```rabbitmq-plugins enable rabbitmq_shovel rabbitmq_shovel_management```
+
+Enable Top plugin (pwshell) => ```rabbitmq-plugins enable rabbitmq_top```
+
 **Used Architecture**
 Routing with topic Exchange
 ![image](https://user-images.githubusercontent.com/68454661/180667155-528c8a2c-e9c9-49e5-a856-08edcf02ec46.png)
