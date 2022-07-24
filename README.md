@@ -1,10 +1,7 @@
-Erlang download: (msi)
+Erlang download: (msi) => [https://erlang.org/download/otp_versions_tree.html](https://erlang.org/download/otp_versions_tree.html)
 
-[https://erlang.org/download/otp_versions_tree.html](https://erlang.org/download/otp_versions_tree.html)
+Chocolaty download: (pwshell) => [https://chocolatey.org/install#install-step2](https://chocolatey.org/install#install-step2)
 
-Chocolaty download: (pwshell)
-
-[https://chocolatey.org/install#install-step2](https://chocolatey.org/install#install-step2)
 ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))```
 
 **Used Architecture**
