@@ -1,1 +1,0 @@
-# jumpstartCS-rabbitmq-csharp
