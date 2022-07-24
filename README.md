@@ -10,6 +10,7 @@ Routing with topic Exchange
 
 
 **OTHER ARCHITECTURES**
+
 Basic request response patern
 ![image](https://user-images.githubusercontent.com/68454661/180667088-f57ec6c4-9b42-4fed-9562-a552b757cca5.png)
 
